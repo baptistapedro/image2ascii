@@ -1,0 +1,5 @@
+project: image2ascii
+target: image2ascii
+
+cmds:
+  - cmd: /image2ascii -f @@
